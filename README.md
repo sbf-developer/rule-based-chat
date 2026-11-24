@@ -2,6 +2,8 @@
 
 A local English-language chatbot built with Python's standard library. It uses phrase and keyword matching, session memory, and built-in tools to respond. Replies are deterministic and the app makes no network calls.
 
+![Rule-Based Chat desktop window showing a greeting, calculation, and joke](assets/chat-screenshot.png)
+
 ## Run it
 
 With Python 3.10 or newer, open the desktop window from the repository folder.
